@@ -28,9 +28,9 @@ Data Cleaning was done on Power Query Editor
 ![page 3](https://github.com/uduaklawrence/EYIA-Beta-/assets/141685463/61a8649d-037a-4c30-b4db-e9a07ec62829)
 
 ## Insights
-More patners signed in the first four (4) weeks of resumption
-Patners with the 25-29 Age range were the highest in population
-Social medium was the best media for preaching EYIA project, followed by Past Cohort 
-Group 8, 6 and 5 were the top 3 highest facilitator rated
-Some patners access exit pass from safeguarding department for Unplanned circumstances
-Exceptations was that patners were to go for a two weeks break and return for nine (9) months mentorship, high percentage of patners were churned refused stating their reasons.
+* More patners signed in the first four (4) weeks of resumption
+* Patners with the 25-29 Age range were the highest in population
+* Social medium was the best media for preaching EYIA project, followed by Past Cohort 
+* Group 8, 6 and 5 were the top 3 highest facilitator rated
+* Some patners access exit pass from safeguarding department for Unplanned circumstances
+* Exceptations was that patners were to go for a two weeks break and return for nine (9) months mentorship, high percentage of patners were churned refused stating their reasons.
